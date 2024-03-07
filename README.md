@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vissossi learn a litlle bit about python
+- 👋 Hi, I’m @Vissossi 
 - 👀 I’m interested in projects with the comunity
 - 🌱 I’m currently learning non code lenguage 
 - 💞️ I’m looking to collaborate on python programs
